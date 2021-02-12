@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>2021/02/11 </title>
+    <url>/2021/02/08/20210211/</url>
+    <content><![CDATA[<h2 id="程式之路"><a href="#程式之路" class="headerlink" title="程式之路"></a>程式之路</h2><font face="微軟正黑體">
+    <font size = 4>
+&#160&#160 大概在2019下半年時，我那時候接觸到了discord bot，開啟了我的程式之旅。那個時候主要還是學javascript，並沒有接觸C++或是python。
+</font>
+<a id="more"></a>
+<br/>
+<br/>
+<font face="微軟正黑體">
+    <font size = 4>
+&#160&#160 在2020 1月時，我朋友突然告訴我APCS這個考試，但當時我主要還是以做discord bot為主，並沒有考慮到競程這一塊，但為了考APCS，我還是去學了python。經過了大概半年，已經都掌握好python的語法的我在7月時去考APCS，但考出來只有觀念2實作2，當下爆氣覺得python是個垃圾(但我後來還是要用到它)，改學C++，之後也蠻努力去學習一些演算法，到10月、1月的APCS都考到了觀念3實作3。
+</font>
+<br/>
+<br/>
+<font face="微軟正黑體">
+    <font size = 5>
+    但......這才是開始
+</font>
+<br/>
+<br/>
+ 
+<font face="微軟正黑體">
+    <font size = 4>
+&#160&#160 實作3到5跟接下來的各種大大小小比賽的難度比起1到3還要難上100倍(隨便講的，反正難很多)，我必須比之前還要更努力。
+  </font>
+<br/>
+<br/>
+<font face="微軟正黑體">
+    <font size = 4>
+&#160&#160 為了讓我以後可以看到我之前的努力以及做的筆記，我花了蠻多時間用hexo架網站的，順便跟其他人分享我寫程式的一些思路和想法。
+  </font>
+
+<h2 id="後記"><a href="#後記" class="headerlink" title="後記"></a>後記</h2><font face="微軟正黑體">
+    <font size = 4>
+      hexo架網站真的很難，尤其是用next主題，一堆參數都看不懂......，之後我也打算用SEO增加這個網站的曝光度，我也會持續增加這個網站的內容的。
+<font>]]></content>
+      <categories>
+        <category>雜記</category>
+      </categories>
+      <tags>
+        <tag>程式之路</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>AP325</title>
+    <url>/2021/02/11/AP325/</url>
+    <content><![CDATA[<h2 id="AP325"><a href="#AP325" class="headerlink" title="AP325"></a>AP325</h2><font face="微軟正黑體">
+    <font size = 4>      
+
+<p>大約是在去年12月時，我看到<a href="https://drive.google.com/drive/folders/10hZCMHH0YgsfguVZCHU7EYiG8qJE5f-m?usp=sharing">吳邦一教授</a>的一份教材，那本教材我第一次看到時，就只是大略的看過去，因為那裡面的東西真的很難很不好理解。</p>
+<a id="more"></a>
+
+
+<p>到了最近我看到<a href="https://judge.tcirc.tw/Problems?tabid=AP325#tab03">台中一中judge</a>有放AP325的題目，剛好寒假很閒我就來寫，本來想說在這寒假看看可不可以寫完，但好像有點困難……，所以我打算這個寒假把前四章的題目做完，並且放到這個網站上。</p>
+</font>
+
+<hr>
+<h3 id="連結"><a href="#連結" class="headerlink" title="連結"></a>連結</h3><table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none'>
+ <tr>
+  <td width=366 valign=top style='width:274.75pt;border:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span style='font-family:"新細明體","serif"'>題目</span></p>
+  </td>
+  <td width=57 valign=top style='width:42.5pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span style='font-family:"新細明體","serif"'>心得</span></p>
+  </td>
+  <td width=134 valign=top style='width:100.85pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span style='font-family:"新細明體","serif"'>完成時間</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=366 valign=top style='width:274.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=57 valign=top style='width:42.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=134 valign=top style='width:100.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=366 valign=top style='width:274.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=57 valign=top style='width:42.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=134 valign=top style='width:100.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+ </tr>
+</table>]]></content>
+  </entry>
+</search>
